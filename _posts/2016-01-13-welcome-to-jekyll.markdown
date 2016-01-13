@@ -9,6 +9,6 @@ never saw one line of Scheme I encourage you to try it, the beginning is faily s
 [Racket][racket] and follow the first two chapters of the [Guide][racket-guide]. 
 
 
-[play-book]:    http://cs.brown.edu/courses/cs173/2012/book/index.html
+[plai-book]:    http://cs.brown.edu/courses/cs173/2012/book/index.html
 [racket]:       http://racket-lang.org
 [racket-guide]: https://docs.racket-lang.org/guide/
