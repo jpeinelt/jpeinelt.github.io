@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Programming Languages: Application and Interpretation"
 date:   2016-01-13 17:10:46
 categories: functional interpreter compiler Racket
